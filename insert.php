@@ -22,5 +22,6 @@ else
 echo $email;
 }
 ?>
+<span>Test</span>
 </body>
 </html>
